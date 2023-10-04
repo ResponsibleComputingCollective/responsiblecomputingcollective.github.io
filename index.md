@@ -1,5 +1,5 @@
 ---
-title: Title of Page What do we stand for?
+title: What do we stand for?
 feature_text: |
   ## ReCompute
   The Responsible Computing Collective
