@@ -9,7 +9,7 @@ excerpt: "The Responsible Computing Collective (ReCompute) is a student-run grou
 
 The Responsible Computing Collective (ReCompute) is a student-run group at Harvard devoted to restructuring the role of AI in our futures in a way that supports humanity. We love discussing immediate implications of new AI developments and advocating for tangible policy regulation. Join us!
 
-{% include button.html text="Add me to the email list" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Add me to the email list" link="https://github.com/daviddarnes/alembic#installation" %}
+{% include button.html text="Add me to the email list" link="https://github.com/daviddarnes/alembic#installation" %}
 
 ## Our Principles & Values
 
