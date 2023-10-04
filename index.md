@@ -1,10 +1,10 @@
 ---
-title: About Alembic
+title: What do we stand for?
 feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  ## ReCompute
+  The Responsible Computing Collective
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "The Responsible Computing Collective (ReCompute) is a student-run group at Harvard devoted to restructuring the role of AI in our futures in a way that supports humanity. We love discussing immediate implications of new AI developments and advocating for tangible policy regulation. Join us!"
 ---
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
