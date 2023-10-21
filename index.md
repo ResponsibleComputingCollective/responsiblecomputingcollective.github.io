@@ -2,7 +2,7 @@
 title: What do we stand for?
 feature_text: |
   ![image](./assets/logos/rcclogo_1.png)
-feature_image: "https://source.unsplash.com/t7YycgAoVSw"
+feature_image: "https://source.unsplash.com/IM8ZyYaSW6g"
 excerpt: "The Responsible Computing Collective (ReCompute) is a student-run group at Harvard devoted to restructuring the role of AI in our futures in a way that supports humanity. We love discussing immediate implications of new AI developments and advocating for tangible policy regulation. Join us!"
 ---
 
